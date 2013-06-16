@@ -15,7 +15,7 @@ Usage
 
 As usual, no special installation is required, just
 
-    import "github.com/pkulak/robotstxt.go"
+    import "github.com/pkulak/robotstxt"
 
 run `go get` and you're ready.
 
